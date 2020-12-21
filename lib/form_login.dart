@@ -127,11 +127,11 @@ class _MyLoginFormState extends State<MyLoginForm> {
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     Text(
-                      "NEW USER? SIGN UP",
+                      "NEW USER? SIGN UP ",
                       style: TextStyle(fontSize: 15, color: Colors.grey),
                     ),
                     Text(
-                      "FORGOT PASSWORD?",
+                      "FORGOT PASSWORD? ",
                       style: TextStyle(fontSize: 15, color: Colors.blue),
                     )
                   ],
